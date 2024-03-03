@@ -67,4 +67,4 @@ Create a list with the even numbers from another list.
 
 ### Practice 3
 Convert temperatures from Fahrenheit to Celsius.
-
+---
