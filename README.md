@@ -21,7 +21,7 @@ Check if `num1` is greater than `num2` and less than `num3`.
 ### Practice 2:
 Check if `num1` is greater than `num2` or less than `num3`.
 
-### Practice 3
+### Practice 3:
 Check if the words stored in `word1` and `word2` are not found in the given phrase.
 
 ## Flow Control
