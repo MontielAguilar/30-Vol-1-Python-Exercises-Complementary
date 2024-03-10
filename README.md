@@ -18,7 +18,7 @@ Check if `num1` is different from `num2`.
 ### Practice 1:
 Check if `num1` is greater than `num2` and less than `num3`.
 
-### Practice 2
+### Practice 2:
 Check if `num1` is greater than `num2` or less than `num3`.
 
 ### Practice 3
