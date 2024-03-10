@@ -4,7 +4,7 @@
 
 ## Comparison Operators
 
-### Practice 1
+### Practice 1:
 Check if `num1` is greater than or equal to `num2`.
 
 ### Practice 2
