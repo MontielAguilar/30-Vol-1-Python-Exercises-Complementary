@@ -15,7 +15,7 @@ Check if `num1` is different from `num2`.
 
 ## Logical Operators
 
-### Practice 1
+### Practice 1:
 Check if `num1` is greater than `num2` and less than `num3`.
 
 ### Practice 2
