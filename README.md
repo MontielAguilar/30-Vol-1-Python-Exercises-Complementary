@@ -7,7 +7,7 @@
 ### Practice 1:
 Check if `num1` is greater than or equal to `num2`.
 
-### Practice 2
+### Practice 2:
 Check if `num1` is equal to `num2`.
 
 ### Practice 3
