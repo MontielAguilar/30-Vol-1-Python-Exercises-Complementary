@@ -48,13 +48,13 @@ Sum the even and odd numbers from a list separately.
 
 ## Random
 
-### Practice 1
+### Practice 1:
 Get an integer from 1 to 10.
 
-### Practice 2
+### Practice 2.
 Get a decimal number between 0 and 1.
 
-### Practice 3
+### Practice 3.
 Select a random element from a list of names.
 
 ## List Comprehension
