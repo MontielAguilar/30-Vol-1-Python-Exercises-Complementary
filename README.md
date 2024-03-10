@@ -10,7 +10,7 @@ Check if `num1` is greater than or equal to `num2`.
 ### Practice 2:
 Check if `num1` is equal to `num2`.
 
-### Practice 3
+### Practice 3:
 Check if `num1` is different from `num2`.
 
 ## Logical Operators
